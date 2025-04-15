@@ -1,8 +1,45 @@
-# React + Vite
+# 🌍🚀 LoqoTrip-Planner — AI-Powered Travel Itinerary App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Full-Stack AI-Powered Trip Planner Web App** built using **React**, **Gemini AI (Google Generative Language API)**, **Firebase**, and **TailwindCSS**.  
 
-Currently, two official plugins are available:
+The application allows users to input their travel destination and number of days — and then generates a smart, AI-curated travel plan using Gemini AI. It also stores user inputs in **Firebase Firestore** for future references.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📸 Demo
+
+![App Demo Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)  
+*(You can replace this with your own image or GIF)*
+
+---
+
+## 📌 Features
+
+- 🌐 Clean, responsive and modern UI with **TailwindCSS**
+- 🧠 AI-generated travel itineraries using **Gemini AI**
+- 🔥 Realtime data storage with **Firebase Firestore**
+- 📊 Dynamic results display for travel plans
+- 📱 Mobile-friendly and optimized layout
+- 🔒 Secure API integration via environment variables
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Gemini AI (Google Generative Language API)**
+- **Firebase (Firestore)**
+- **TailwindCSS**
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/shyamkumargupta411/LoqoTrip-Planner.git
+cd LoqoTrip-Planner
