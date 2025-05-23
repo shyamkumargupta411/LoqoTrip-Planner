@@ -8,7 +8,7 @@ The application allows users to input their travel destination and number of day
 
 ## 📸 Demo Link
 
-![App Demo Link](https://loqo-trip-planner.vercel.app/)  
+https://loqo-trip-planner.vercel.app/  
 
 
 ---
